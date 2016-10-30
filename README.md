@@ -1,7 +1,7 @@
 # Homebrew formula for The Maude System
 This repository contains a [Homebrew](http://brew.sh/) formula for [The Maude System](http://maude.cs.illinois.edu/).
 
-Assuming you have ~brew~ installed and wish to install Maude, first tap into this repository: `brew tap iMartinezMateu/homebrew-maude`
+Assuming you have `brew` installed and wish to install Maude, first tap into this repository: `brew tap iMartinezMateu/homebrew-maude`
 
 You can then install [Core Maude](http://maude.cs.illinois.edu/w/index.php?title=Maude_download_and_installation#Core_Maude_2.7) by running: `brew install maude`
 
